@@ -1,4 +1,4 @@
-site_name: /DevBlog
+site_name: /DevBlog > Siddharth Chillale
 site_description: A Memoir of the Adventures in Code
 site_author: Siddharth Chillale
 nav:
@@ -11,18 +11,22 @@ nav:
     - 'Dev logs':
             - "Project: Corona": "Corona.md"
 
-# theme: windmill-dark
 
 theme: material
 extra_css: 
     - css/extra.css
-# extra: 
-#     sidebars:
-#         - search
-#         - about
-#         - toc
-#         - related
+
+markdown_extensions:
+    - admonition
+    - toc:
+        permalink: true
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.smartsymbols
+
+
+
 
 repo_url: https://github.com/SiddharthChillale/devblog
 
-repo_name: SiddharthChillale/devblog
+repo_name: /devblog

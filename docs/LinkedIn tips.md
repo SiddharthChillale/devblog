@@ -13,13 +13,13 @@ Date: 2020-24-03
 
 # Summary :
 
-- Tl;Dr
-    - Market yourself with your elevator pitch
-    - Optimise LinkedIn profile components (summary and accomplishments)
-    - Describe effectively your work experience and projects
-    - Create connections
-    - participate in the content
-- Your Aim — Raise visibilty
+??? note "Tl;Dr"
+    * Market yourself with your elevator pitch
+    * Optimise LinkedIn profile components (summary and accomplishments)
+    * Describe effectively your work experience and projects
+    * Create connections
+    * participate in the content
+    * Your Aim — Raise visibilty
 
 ## Important Points
 
@@ -39,6 +39,7 @@ Date: 2020-24-03
 
 - ### A LinkedIn summary is your elevator pitch about yourself.
 
+!!! example "Example summary"
     I'm a student pursing Bachelors in Computer Science and Engineeering. My latest web app project is a dashboard ruuning data analysis and showcasing affected numbers during the COVID-19 crisis. Apart from my academics, I'm working on helping with the COVID research by running models on the gathered data.
 
     In my free time, I continue improving my skills by applying my knowledge contesting in Kaggle competitions.
