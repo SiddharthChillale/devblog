@@ -1,0 +1,28 @@
+site_name: /DevBlog
+site_description: A Memoir of the Adventures in Code
+site_author: Siddharth Chillale
+nav:
+    - 'Home': 'index.md'
+    - 'Personal Projects': 'projects.md'
+    - 'Summaries':
+        - "Gain experience": "What to do to gain experience.md"
+        - "LinkedIn Tips" : "LinkedIn tips.md"
+        - "Git mistakes": "Git_Mistakes.md"
+    - 'Dev logs':
+            - "Project: Corona": "Corona.md"
+
+# theme: windmill-dark
+
+theme: material
+extra_css: 
+    - css/extra.css
+# extra: 
+#     sidebars:
+#         - search
+#         - about
+#         - toc
+#         - related
+
+repo_url: https://github.com/SiddharthChillale/devblog
+
+repo_name: SiddharthChillale/devblog
