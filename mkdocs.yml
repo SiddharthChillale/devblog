@@ -12,9 +12,16 @@ nav:
             - "Project: Corona": "Corona.md"
 
 
-theme: material
+theme:
+    name: material
+
 extra_css: 
     - css/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/siddharthchillale
 
 markdown_extensions:
     - admonition

@@ -4,7 +4,7 @@ Author: Siddharth Chillale
 Date: 2020-11-04
 ---
 
-## ABOUT ME
+# ABOUT ME
 !!! note ""
     Hi, I am Siddharth Chillale.
 
@@ -18,6 +18,7 @@ Date: 2020-11-04
 ### Connect me on
 
 * ![LinkedIn](img/linkedin.png) - [{==LinkedIn==}](https://www.linkedin.com/in/siddharth-chillale-in/)
+* [{==Github==}](https://github.com/siddharthchillale)
 
 ## TIMELINE
 

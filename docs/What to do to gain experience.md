@@ -4,7 +4,7 @@ Date: 2020-11-04
 Author: Siddharth Chillale
 ---
 
-# What to do to gain Experience
+# **What to do to gain Experience**
 ---------------------------------------------------------
 
 * Reorient your mindset with how the hiring manager or recruiters view you and not how you present yourself.

@@ -1,6 +1,6 @@
 
-# CMDS FOR DEALING WITH GIT MISTAKES
-
+# **CMDS FOR DEALING WITH GIT MISTAKES**
+---
 1. `git status`
 
 2. `git log`

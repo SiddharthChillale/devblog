@@ -1,15 +1,10 @@
 ---
 Title: LinkedIn Tips
-Author: Siddharth
-Date: 2020-24-03
+Date: 2020-11-04
+Author: Siddharth Chillale
 ---
 
-
-# LinkedIn tips:
-----
-* Materials: [Udacity Classroom course](https://classroom.udacity.com/courses/ud242/lessons/3d6a3383-624f-43f3-a4e7-ee0881bf735a/concepts/64ed9954-b423-4a75-ad70-b2a1fbaa3a6d)
-* Type: Udacity
-----
+# **LinkedIn Tips**
 
 # Summary :
 
