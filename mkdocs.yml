@@ -4,12 +4,13 @@ site_author: Siddharth Chillale
 nav:
     - 'Home': 'index.md'
     - 'Personal Projects': 'projects.md'
-    - 'Summaries':
-        - "Gain experience": "What to do to gain experience.md"
-        - "LinkedIn Tips" : "LinkedIn tips.md"
-        - "Git mistakes": "Git_Mistakes.md"
-    - 'Dev logs':
-            - "Project: Corona": "Corona.md"
+    - "Blog":
+        - 'Summaries':
+            - "Gain experience": "What to do to gain experience.md"
+            - "LinkedIn Tips" : "LinkedIn tips.md"
+            - "Git mistakes": "Git_Mistakes.md"
+        - 'Dev logs':
+                - "Project: Corona": "Corona.md"
 
 
 theme:
@@ -18,19 +19,23 @@ theme:
 extra_css: 
     - css/extra.css
 
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/siddharthchillale
 
 markdown_extensions:
     - admonition
     - toc:
         permalink: true
     - pymdownx.critic
+    - pymdownx.caret
     - pymdownx.details
     - pymdownx.smartsymbols
-
+    - pymdownx.mark
+    - pymdownx.tabbed
+    - pymdownx.superfences
+    - pymdownx.betterem:
+        smart_enable: 'underscore'
+    - pymdownx.emoji:
+        emoji_index: !!python/name:pymdownx.emoji.twemoji
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
 
 
 
