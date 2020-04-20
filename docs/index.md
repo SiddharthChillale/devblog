@@ -75,6 +75,8 @@ In my more free times, Photography, Sketching and Painting makes me happy. If it
 
     *    _^^Github Link^^_ - [SiddharthChillale/dashboard-corona](https://github.com/SiddharthChillale/dashboard-corona)
 
+    *   _^^Dev Log^^_ - [Project: Corona](Corona.md)
+
 !!! example ":bookmark_tabs:  __NIPS Papers Analysis__."
 
     *    _^^Description^^_ - Discovering the hottest topics in machine learning by analysing NIPS papers using NLP libraries in python.
