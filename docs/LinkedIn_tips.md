@@ -6,7 +6,7 @@ Author: Siddharth Chillale
 
 # **LinkedIn Tips**
 
-# Summary :
+## Summary :
 
 ??? note "Tl;Dr"
     * Market yourself with your elevator pitch
@@ -18,7 +18,8 @@ Author: Siddharth Chillale
 
 ## Important Points
 
-- ### Write a polite and short introduction
+---
+- __Write a polite and short introduction__
 
     Hi ___<insert name here>,
 
@@ -32,7 +33,8 @@ Author: Siddharth Chillale
 
     Siddharth.
 
-- ### A LinkedIn summary is your elevator pitch about yourself.
+!!! info
+    A LinkedIn summary is your elevator pitch about yourself.
 
 !!! example "Example summary"
     I'm a student pursing Bachelors in Computer Science and Engineeering. My latest web app project is a dashboard ruuning data analysis and showcasing affected numbers during the COVID-19 crisis. Apart from my academics, I'm working on helping with the COVID research by running models on the gathered data.
@@ -42,27 +44,28 @@ Author: Siddharth Chillale
     Skills: Analysing Patterns in Data, Python, SQL/Bigquery. 
 
 ---
-- ## Work Experiences :
+## Work Experiences
 
-    #### Order of events matters
 
-    Should have atmost 3 bullet points expressing what you've done.
+ __Order of events matters__
 
-    - At least 1 chould demonstrate individual contribution.
-    - At least 1 should communicate project result (with metrics, findings, etc)
-    - #### Include relevant experience only
+Should have atmost 3 bullet points expressing what you've done.
 
-- ## Get more Connections
+- At least 1 chould demonstrate individual contribution.
+- At least 1 should communicate project result (with metrics, findings, etc)
+- __Include relevant experience only__
+
+- __Get more Connections__
     - Get 500+ connections
     - Join groups
     - Don't bring your ego in the middle.
-- ## Engage with LinkedIn content
+- __Engage with LinkedIn content__
     - like, share and post stuff
     - Give recommendations and endorse people
 
 ---
 
-# **Informational Interview**
+# __Informational Interview__
 
 Questions for asking a new connection - 
 

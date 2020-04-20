@@ -8,6 +8,8 @@ Date: 2020-11-04
 
 Hi, I am ==Siddharth Chillale==.
 
+> ![profile](img/mack.jpeg)
+
 I'm a software engineer student pursing Bachelors in Computer Science and Engineering. My latest web app project is a dashboard ruuning data analysis and showcasing affected numbers during the COVID-19 crisis. 
 Apart from my academics, I'm working on helping with the COVID research by running models on the gathered data.
 
@@ -18,9 +20,9 @@ In my free time, I continue improving my skills by applying my knowledge contest
 In my more free times, Photography, Sketching and Painting makes me happy. If it makes you happy too check out my Instagram account ( it's listed below :p ).
 
 ### Connect me on
-
 * [{==LinkedIn==}](https://www.linkedin.com/in/siddharth-chillale-in/)
 * [==Github==](https://github.com/siddharthchillale)
+* [==Kaggle==](https://kaggle.com/siddalore)
 * [==Instagram==](https://www.instagram.com/seedaarth/)
 
 ## TIMELINE

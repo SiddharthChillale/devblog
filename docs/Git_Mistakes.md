@@ -1,6 +1,7 @@
 
 # **CMDS FOR DEALING WITH GIT MISTAKES**
 ---
+
 1. `git status`
 
 2. `git log`
@@ -34,5 +35,20 @@
 
 10. `git reflog` : shows all the log where a commit is referenced.
 
-11. `it revert` 
+11. `git revert` 
     - `<commit_hash>` : undos the changes from commit with hash`<commit_hash>`. keeps git history clean.
+
+12. `git fetch`
+    - `<remote_name/branch_name>` : brings all changes from the remote repo to the local repo, __but doesn't merge with existing files__.
+
+13. `git merge`
+    - `<remote_name/branch_name>` : Merging combines your local changes with changes made by others.
+
+
+14. `git pull` : A convenient shortcut for `git fetch` and `git merge`
+    - `<remote_name/branch_name>` : fetches all changes from the remote_repo `<remote_name>` to the local repo and merges the changes. 
+
+!!! tip
+    __If any merge conflicts, then do `git merge --abort` to take the branch to where it was before you pulled__.
+
+    

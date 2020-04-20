@@ -57,5 +57,5 @@ Things to consider
 
 ---------------------------------------------------------
 
-Also read -- [LinkedIn Tips]("/LinkedIn tips.md")
+Also read -- [LinkedIn Tips](LinkedIn_tips.md)
 
