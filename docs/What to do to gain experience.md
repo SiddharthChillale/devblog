@@ -24,7 +24,7 @@ Once you know what the requirements are
 - List out things you don't know. 
 
 ## VOLUNTEER 
-: Be ready to work for free
+: __Be ready to work for free__
 
 : Good for networking
 
