@@ -4,7 +4,7 @@ Author: Siddharth Chillale
 Date: 2020-11-04
 ---
 
-# ABOUT ME
+#  ABOUT ME
 
 Hi, I am ==Siddharth Chillale==.
 
@@ -19,7 +19,8 @@ In my free time, I continue improving my skills by applying my knowledge contest
 
 In my more free times, Photography, Sketching and Painting makes me happy. If it makes you happy too check out my Instagram account ( it's listed below :p ).
 
-### Connect me on
+### Contact me on
+* :mailbox: {==Mail==} - siddharth.chillale@gmail.com
 * [{==LinkedIn==}](https://www.linkedin.com/in/siddharth-chillale-in/)
 * [==Github==](https://github.com/siddharthchillale)
 * [==Kaggle==](https://kaggle.com/siddalore)
@@ -38,7 +39,7 @@ In my more free times, Photography, Sketching and Painting makes me happy. If it
 === "2015"
     - :books: Matriculation, Mona School,Maharashtra, India, 92%.
 
-## CERTIFICATIONS 
+## :scroll: CERTIFICATIONS 
 
 !!! note ""
     *   Name - 'Machine Learning'
@@ -66,7 +67,7 @@ In my more free times, Photography, Sketching and Painting makes me happy. If it
 
 ---
 
-## PROJECTS
+## :minidisc: PROJECTS
 
 !!! tip ":chart_with_upwards_trend: __Corona Dashboard__"
     *   _^^Description^^_ - Shows a dashboard for comparing affected numbers from COVID-19 thoughtout the world.
@@ -94,4 +95,4 @@ In my more free times, Photography, Sketching and Painting makes me happy. If it
     *    _^^Github Link^^_ - [SiddharthChillale/courier-management-project](https://github.com/SiddharthChillale/courier-management-project/) 
 
 ---
-For a detailed list of Projects, go to the [Projects Page](projects.md)
+For a detailed list of Projects, go to the [:minidisc: Projects Page](projects.md)

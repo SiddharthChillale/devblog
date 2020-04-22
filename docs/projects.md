@@ -1,3 +1,10 @@
+---
+Title: Projects
+Date: 2020-11-22
+Author: Siddharth Chillale
+---
+
+# :minidisc: Projects
 
 !!! tip ":chart_with_upwards_trend: __Corona Dashboard__"
     *   _^^Description^^_ - Shows a dashboard for comparing affected numbers from COVID-19 thoughtout the world.

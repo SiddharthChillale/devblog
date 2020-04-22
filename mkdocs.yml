@@ -4,13 +4,14 @@ site_author: Siddharth Chillale
 nav:
     - 'Home': 'index.md'
     - 'Personal Projects': 'projects.md'
+    - "Bucket List": "Things_I_Plan_to_do.md"
     - "Blog":
-        - 'Summaries':
-            - "Gain experience": "What to do to gain experience.md"
-            - "LinkedIn Tips" : "LinkedIn_tips.md"
-            - "Git mistakes": "Git_Mistakes.md"
         - 'Dev logs':
                 - "Project: Corona": "Corona.md"
+        - "Gain experience": "What to do to gain experience.md"
+        - "LinkedIn Tips" : "LinkedIn_tips.md"
+        - "Git mistakes": "Git_Mistakes.md"
+        
 
 
 theme:
@@ -38,6 +39,8 @@ markdown_extensions:
         emoji_generator: !!python/name:pymdownx.emoji.to_svg
     - footnotes
     - meta
+    - pymdownx.tasklist:
+        custom_checkbox: true
 
 
 
