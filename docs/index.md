@@ -44,7 +44,7 @@ In my more free times, Photography, Sketching and Painting makes me happy. If it
 !!! note ""
     *   Name - 'Machine Learning'
 
-        - Issuing Organisation - 'Coursera'
+        - Issuing Organisation - 'Coursera | Stanford'
 
         - Issue Date - Jan 2020
         - Credential ID - [SFMCHP7F6W9C](https://www.coursera.org/account/accomplishments/verify/SFMCHP7F6W9C)
@@ -64,6 +64,15 @@ In my more free times, Photography, Sketching and Painting makes me happy. If it
 
         - Issue Date - 'Feb 2020'
         - Credential ID - [Advanced SQL](https://www.kaggle.com/learn/certification/siddalore/advanced-sql)
+
+
+    ---
+    *   Name - 'Probability and Statistics'
+
+        - Issuing Organisation - 'Coursera | University of London'
+
+        - Issue Date - 'Apr 2020'
+        - Credential ID - [74M4UJXAGWA2](https://coursera.org/share/6530c259db28487e4da9de750e0d7272)
 
 ---
 
