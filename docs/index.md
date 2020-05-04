@@ -10,10 +10,13 @@ Hi, I am ==Siddharth Chillale==.
 
 > ![profile](img/mack.jpeg)
 
-I'm a software engineer student pursing Bachelors in Computer Science and Engineering. My latest web app project is a dashboard ruuning data analysis and showcasing affected numbers during the COVID-19 crisis. 
+
+I'm a student pursing Bachelors in Computer Science and Engineering at Indian Institute of Information Technology, Trichy. Over a period of three years, I've developed my developing skills through participating and co-hosting coding competitions. My recent love for pulling insights from raw data has led me to develop a dashboard running data analysis and showcasing affected numbers during the COVID-19 crisis. 
+
+My latest web app project is a dashboard ruuning data analysis and showcasing affected numbers during the COVID-19 crisis. 
 Apart from my academics, I'm working on helping with the COVID research by running models on the gathered data.
 
-Currently, I am volunteering as a Teaching Assistant at "ShiP.py: Learning to Py while Shelter-in-Place" to offer a Free, Online, Interactive, and Hands-on beginner's programming course in python3.
+Currently, I am volunteering as a Teaching Assistant at "ShiP.py: Learning to Py while Shelter-in-Place" to offer a Free, Online, Interactive, and Hands-on beginner's programming course in Python.
 
 In my free time, I continue improving my skills by applying my knowledge contesting in Kaggle competitions.
 
