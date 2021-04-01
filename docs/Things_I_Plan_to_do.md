@@ -23,8 +23,6 @@ Author: Siddharth Chillale
 * [ ]   Making a website for my Mum's Business or something to improve the business image.
     Update [July 2020]: We gave up on the idea of making a website as it was not worth the effort according to the value it provided. Instead, I assisted with marketing of the products and eventually worked on editing her cooking videos to perfection.
 
-* [ ]   Learn how to juggle (don't ask, it's just something I want to do)
-
 * [x]   Get the Gold Badge in Hackerrank for C++ (It's an incentive to learn C++ properly, and pretty proud of it).
 
 * [ ]   Reading Goals - ( Hands-On ML with Scikit-Learn and Tensorflow), followed by detailed projects.
