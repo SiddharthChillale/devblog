@@ -29,9 +29,6 @@ Author: Siddharth Chillale
 
 * [ ]   Reading Goals - ( Hands-On ML with Scikit-Learn and Tensorflow), followed by detailed projects.
 
-* [ ]   Progress to Kaggle Notebooks Expert. 
-
-* [ ]   Build a C++ Application. (still have to decide on which one. If you have any ideas, hit me up on [LinkedIn](https://www.linkedin.com/in/siddharth-chillale-in/)) 
 
 ---
 
